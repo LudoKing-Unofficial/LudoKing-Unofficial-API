@@ -36,6 +36,8 @@ To get started, clone this repository and set up the required dependencies.
    Create a `.env` file in the root directory and add the following keys:
    PORT=3000
    API_KEY=abcd1234
+
+4. **GET API KEY:**  
    [GET API KEY ](https://apihubs.in/)
 
 ---
